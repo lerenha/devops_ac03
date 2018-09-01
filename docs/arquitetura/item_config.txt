@@ -1,0 +1,8 @@
+Arquitetura - Infra/Desenvolvimento
+
+*O sistema irá funcionar via web, tornando possível ser acessível de qualquer local, assim necessitando só do navegador. Será hospedado via cloud, evitando que o site fique offline.
+*Utilizaremos Html junto ao CSS para marcar e estilizar os elementos da página, também conterá programação PHP para fazer toda a parte lógica do site, tornando possível validação de formulários, requisições em banco de dados e alterações de informações do usuário logado. Como linguagem de banco de dados utilizaremos MySQL para armazenar todas informações dos usuários.
+
+________________________________________
+Nome: Gabriel G. S. Costa
+RA: 1800700
