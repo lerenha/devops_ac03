@@ -17,3 +17,19 @@
 # Validar multi sessoes
 
 # validar edições
+
+# validar deletar
+
+# validar adicionar novos pacientes
+
+# validar possibilidade de incluir pacientes com registros em duplicidade
+
+# validar a possibilidade de editar campos que não podem sofre nenhum tipo de alteração
+
+# validar a conexão dos bancos de dados
+# validar a performance de inclusão de mais de 100 mil registro por secundo
+
+# validar a performance de criação de paciente de 100 mil por segundos
+
+# validar a conexão das interfaces
+# validar a disponibilidade de chamar o serviço
