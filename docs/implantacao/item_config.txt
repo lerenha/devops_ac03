@@ -1,0 +1,7 @@
+O sistema inicialmente irá iniciar com os sistemas html, css, php e mysql. Conforme o projeto vai ficando mais conhecido pelo público, será analisado implementações de frameworks para fácil manutenção do sistema, mais maquinas em cloud para não ocorrer gargalos devido a muitos acessos e adptando o sistema para diversos públicos. iremos também criar apps para smartphone em sistema android e IOS.
+
+__________________________
+
+NOME: Lucas Lopes da Rocha 
+RA: 1801180
+
