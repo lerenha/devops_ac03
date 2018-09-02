@@ -1,0 +1,36 @@
+# Design:
+
+
+
+# Definição da estrutura: Web, ios, android
+
+
+
+# Definição dos componentes: Servidor, Banco de Dados , Interface.
+
+
+
+# O sistema web será desenvolvida com HTML e CSS.
+
+# O mobile será será desenvolvido com HTML.
+
+# Linguagem de programação utilizada no projeto será Python.
+
+# E o armazenamento e manutenção do banco de dados, será pelo MySQL.
+
+# Ferramenta paro gerenciamento de documentos e código será pelo GitHub
+
+
+
+# Funcionamento:
+
+# Software que armazena em um banco de dados todos os exames feitos pelos usuários nas clínicas especializadas, hospitais,
+farmácias entre outros credenciados 
+neste software, facilitando assim, a visualização de todos os exames já feitos pelo paciente em todos
+os locais credenciados.
+# Todas as informações dos usuários será armazenado dentro do software, que terá uma ligação com as unidades cadastradas e o usuário vai pode
+r fazer pesquisa 
+sobre os exames que esta procurando, onde terá acesso aos resultados, podendo ser baixado em PDF ou imprimir o documento.
+# O design do software será feito com cores azul claro no fundo, texto em preto e cores verde nos blocos.
+a estrutura da página terá o emblema da nossa empresa em cima do lado esquerdo, e do lado direito o login das empresas ou usuários, logo em baixo o menu com as opções,
+no meio da página aparecerá as informações do menu que foi acessado, com o fundo branco e texto preto, no final da página terá as informações da nossa empresa e do software.
